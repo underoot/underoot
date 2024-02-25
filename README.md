@@ -1,16 +1,14 @@
-### Hi there 👋
+👋, I'm Aleksandr Shoronov.
 
-<!--
-**underoot/underoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm software engineer. Started development in the beginning of the XX century when my father brought to home an old computer based on 80386SX.
 
-Here are some ideas to get you started:
+I've been developing user interfaces in fintech, education and transport spheres. When I'm far away from keyboard, prefer observe sky in night, walk in new cities with my dog, read books and learn new languages: programming and natural. I know how to exit from ViM by several ways, how to solve Hanoi Tower problem when there are three of you, but computer only one, how to build Linux from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I like
+
+- My family
+- Linux
+- Tile managers
+- Helsinki
+- Pancakes
+- Sunny weather
