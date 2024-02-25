@@ -1,4 +1,4 @@
-👋, I'm Aleksandr Shoronov.
+Hello! I'm Aleksandr Shoronov.
 
 I'm software engineer. Started development in the beginning of the XX century when my father brought to home an old computer based on 80386SX.
 
